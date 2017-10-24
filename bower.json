@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Marcin Lasecki"
+  ],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "waypoints": "^4.0.1",
+    "jquery": "^3.1.1"
+  }
+}
